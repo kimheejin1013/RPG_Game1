@@ -1,0 +1,1332 @@
+fileFormatVersion: 2
+guid: 737c7b1ec60f79646a72fe205c5ed452
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4511717750778621562
+    second: momodora_0
+  - first:
+      213: 3904301605138455398
+    second: momodora_1
+  - first:
+      213: 6507241802600689151
+    second: momodora_2
+  - first:
+      213: -3367770888328376285
+    second: momodora_3
+  - first:
+      213: -2162024853252526891
+    second: momodora_4
+  - first:
+      213: 7553549514274032300
+    second: momodora_5
+  - first:
+      213: -8007549015432378579
+    second: momodora_6
+  - first:
+      213: 6286667686849311644
+    second: momodora_7
+  - first:
+      213: 4911699884917428721
+    second: momodora_8
+  - first:
+      213: -5658967190166388573
+    second: momodora_9
+  - first:
+      213: -2339946722311362028
+    second: momodora_10
+  - first:
+      213: 7502491694506160208
+    second: momodora_11
+  - first:
+      213: -7935185605852212544
+    second: momodora_12
+  - first:
+      213: -639606491496576676
+    second: momodora_13
+  - first:
+      213: -6700765694133707197
+    second: momodora_14
+  - first:
+      213: -4543120570973051085
+    second: momodora_15
+  - first:
+      213: 7382579621833555813
+    second: momodora_16
+  - first:
+      213: -3065455168479620753
+    second: momodora_17
+  - first:
+      213: -12490382396478255
+    second: momodora_18
+  - first:
+      213: 7981109424639009270
+    second: momodora_19
+  - first:
+      213: 5550595883201837568
+    second: momodora_20
+  - first:
+      213: 5037786449845128728
+    second: momodora_21
+  - first:
+      213: -4801475745289063228
+    second: momodora_22
+  - first:
+      213: -4040871928512952407
+    second: momodora_23
+  - first:
+      213: 5142593589820105102
+    second: momodora_24
+  - first:
+      213: 6595897109703487741
+    second: momodora_25
+  - first:
+      213: 4199161516392697712
+    second: momodora_26
+  - first:
+      213: -5790625928343226957
+    second: momodora_27
+  - first:
+      213: -5354586424015830648
+    second: momodora_28
+  - first:
+      213: 4613561652053374488
+    second: momodora_29
+  - first:
+      213: -8610708201675461027
+    second: momodora_30
+  - first:
+      213: -907424326591462940
+    second: momodora_31
+  - first:
+      213: 9008177333882827329
+    second: momodora_32
+  - first:
+      213: -3382473830756777242
+    second: momodora_33
+  - first:
+      213: 3164581874522277457
+    second: momodora_34
+  - first:
+      213: 3859726415161917246
+    second: momodora_35
+  - first:
+      213: 6648126495842185239
+    second: momodora_36
+  - first:
+      213: -9017016047414546271
+    second: momodora_37
+  - first:
+      213: 1242282194404053096
+    second: momodora_38
+  - first:
+      213: -2130861613998389102
+    second: momodora_39
+  - first:
+      213: -9210634055624298407
+    second: momodora_40
+  - first:
+      213: 3669069989196495021
+    second: momodora_41
+  - first:
+      213: 1510242178950109071
+    second: momodora_42
+  - first:
+      213: -2273067313464295361
+    second: momodora_43
+  - first:
+      213: 5563763716581010013
+    second: momodora_44
+  - first:
+      213: -7968350465884175103
+    second: momodora_45
+  - first:
+      213: -1848940129974061963
+    second: momodora_46
+  - first:
+      213: 5791115040399678519
+    second: momodora_47
+  - first:
+      213: 5349429050158349265
+    second: momodora_48
+  - first:
+      213: 8037535632400579650
+    second: momodora_49
+  - first:
+      213: 6099638614283288047
+    second: momodora_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: momodora_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 405
+        width: 19
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7eebf5e367dc9e30800000000000000
+      internalID: 4511717750778621562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 405
+        width: 18
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bd34ebf9dde2630800000000000000
+      internalID: 3904301605138455398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 405
+        width: 21
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd269f41fd5e4a50800000000000000
+      internalID: 6507241802600689151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 405
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320194468364341d0800000000000000
+      internalID: -3367770888328376285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 405
+        width: 22
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc2152d9d1fef1e0800000000000000
+      internalID: -2162024853252526891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 405
+        width: 20
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caac0a7434993d860800000000000000
+      internalID: 7553549514274032300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 358
+        width: 19
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27cf95a8987fd090800000000000000
+      internalID: -8007549015432378579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 358
+        width: 21
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c937497f3fabe3750800000000000000
+      internalID: 6286667686849311644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 360
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f194d3a50dd92440800000000000000
+      internalID: 4911699884917428721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 358
+        width: 26
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0ca82b25f4771b0800000000000000
+      internalID: -5658967190166388573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 358
+        width: 22
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41aaa478ad6d68fd0800000000000000
+      internalID: -2339946722311362028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 358
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050bb5d32743e1860800000000000000
+      internalID: 7502491694506160208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_12
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 360
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2d260ebbe80e190800000000000000
+      internalID: -7935185605852212544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_13
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 358
+        width: 26
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c590056e849af17f0800000000000000
+      internalID: -639606491496576676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_14
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 358
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e59067a191203a0800000000000000
+      internalID: -6700765694133707197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_15
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 358
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337a16349e793f0c0800000000000000
+      internalID: -4543120570973051085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 311
+        width: 20
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f3d6d2d01347660800000000000000
+      internalID: 7382579621833555813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_17
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 311
+        width: 20
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6113e704c05575d0800000000000000
+      internalID: -3065455168479620753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_18
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 311
+        width: 20
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc262a3010a3dff0800000000000000
+      internalID: -12490382396478255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_19
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 311
+        width: 22
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f161296cb892ce60800000000000000
+      internalID: 7981109424639009270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_20
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 311
+        width: 25
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00abdf52c8da70d40800000000000000
+      internalID: 5550595883201837568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_21
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 311
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e8b45b510d9e540800000000000000
+      internalID: 5037786449845128728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_22
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 311
+        width: 19
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4346cbf3bbd5db0800000000000000
+      internalID: -4801475745289063228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_23
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 256
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a74326f360fbe7c0800000000000000
+      internalID: -4040871928512952407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_24
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 256
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81ad619f992e5740800000000000000
+      internalID: 5142593589820105102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_25
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 256
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0f6e68975598b50800000000000000
+      internalID: 6595897109703487741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_26
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 201
+        width: 24
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fc31ba62b664a30800000000000000
+      internalID: 4199161516392697712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_27
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 202
+        width: 25
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b57fe1f56093afa0800000000000000
+      internalID: -5790625928343226957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_28
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 201
+        width: 24
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88148656400b0b5b0800000000000000
+      internalID: -5354586424015830648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 201
+        width: 24
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816710cf0e9a60040800000000000000
+      internalID: 4613561652053374488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_30
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 201
+        width: 24
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e6796138e908880800000000000000
+      internalID: -8610708201675461027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_31
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 152
+        width: 25
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1c7f8f16e2863f0800000000000000
+      internalID: -907424326591462940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_32
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 152
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142bfcbce89730d70800000000000000
+      internalID: 9008177333882827329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_33
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 152
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e200b7d8f90f01d0800000000000000
+      internalID: -3382473830756777242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_34
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 152
+        width: 27
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1564a8db27adaeb20800000000000000
+      internalID: 3164581874522277457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_35
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 152
+        width: 27
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ffae199b0809530800000000000000
+      internalID: 3859726415161917246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_36
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 152
+        width: 27
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710398e13d3e24c50800000000000000
+      internalID: 6648126495842185239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_37
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 152
+        width: 27
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0fbd7ddaf1dd280800000000000000
+      internalID: -9017016047414546271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_38
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 106
+        width: 18
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8601f3ce2197d3110800000000000000
+      internalID: 1242282194404053096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_39
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 106
+        width: 18
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2984c10e6a8ad62e0800000000000000
+      internalID: -2130861613998389102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 106
+        width: 23
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950f56e50214d2080800000000000000
+      internalID: -9210634055624298407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_41
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 104
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da87a1237b72be230800000000000000
+      internalID: 3669069989196495021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_42
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 104
+        width: 23
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f871229924575f410800000000000000
+      internalID: 1510242178950109071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_43
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 104
+        width: 23
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30c86652517470e0800000000000000
+      internalID: -2273067313464295361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_44
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 104
+        width: 23
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5aa4054f95763d40800000000000000
+      internalID: 5563763716581010013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_45
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 60
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105c72b287bba6190800000000000000
+      internalID: -7968350465884175103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_46
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5747ee57fbe3756e0800000000000000
+      internalID: -1848940129974061963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_47
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 60
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cd174527c2e5050800000000000000
+      internalID: 5791115040399678519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_48
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 60
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbf7dde06dfc3a40800000000000000
+      internalID: 5349429050158349265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_49
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 14
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cf7cea2101b8f60800000000000000
+      internalID: 8037535632400579650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: momodora_50
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 14
+        width: 19
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed7c9e900546a450800000000000000
+      internalID: 6099638614283288047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 922d9f4599bd71c449c786368262d712
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
